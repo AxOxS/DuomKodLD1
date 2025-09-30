@@ -1,0 +1,551 @@
+
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    
+    Saulė leidosi už miško. Auksiniai spinduliai prasiskverbė pro lapus ir sukūrė stebuklingą šešėlių žaidimą ant žemės. 
+    Paukščiai dar čiulbėjo medžių viršūnėse, bet jau tyliau, ruošdamiesi nakties poilsiui. Vėjas lengvai judino šakas, 
+    o tolumos skambėjo paslaptingi gamtos garsai.
+    
+    Marytė ėjo mišku ir galvojo apie rytojų. Ar bus gražus oras? Ar spės pabaigti visus darbus? Šie klausimai kamuoja 
+    ją jau kelias dienas. Gyvenimas kaime nėra lengvas, bet jis pilnas prasmės ir grožio. Kiekviena diena atneša 
+    naujų išbandymų ir džiaugsmų.
+    
+    Staiga ji išgirdo šunis lojant. Matyt, kažkas artinasi prie sodybos. Marytė paspartino žingsnį ir netrukus 
+    pamatė savo namą su šviesa languose. Namuose laukė šiltas vakarinis jas ir mylimi žmonės.
+    

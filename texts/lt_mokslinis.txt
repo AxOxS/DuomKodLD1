@@ -1,0 +1,651 @@
+
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    
+    Informacijos teorija yra matematikos šaka, kuri nagrinėja informacijos perdavimą, apdorojimą ir saugojimą. 
+    Claude Shannon 1948 metais paskelbė fundamentalų darbą, kuriame apibrėžė informacijos kiekio matavimo metodus.
+    
+    Pagrindinė informacijos teorijos sąvoka yra entropija. Ji matuoja sistemoje esančios informacijos kiekį arba 
+    neapibrėžtumo laipsnį. Entropija apskaičiuojama pagal formulę H = -Σ p(x) log p(x), kur p(x) yra įvykio x tikimybė.
+    
+    Informacijos teorija plačiai taikoma telekomunikacijose, kompiuterių moksle, kriptografijoje ir kitose srityse. 
+    Ji padeda optimizuoti duomenų suspaudimo algoritmus, sukurti efektyvius kodavimo metodus ir analizuoti komunikacijos 
+    kanalų pralaidumą.
+    
+    Šaltinio kodavimas yra procesas, kurio metu duomenys transformuojami į efektyvesnę formą. Huffman kodavimas yra 
+    vienas iš žinomiausių bešakų kodavimo metodų, kuris naudoja kintamo ilgio kodus simboliams pagal jų pasirodymo dažnį.
+    

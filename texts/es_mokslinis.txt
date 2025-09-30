@@ -1,0 +1,801 @@
+
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
+    La teoría de la información es una rama de las matemáticas que estudia la transmisión, procesamiento y 
+    almacenamiento de información. Claude Shannon publicó en 1948 un trabajo fundamental en el que definió 
+    métodos para medir la cantidad de información.
+    
+    El concepto principal de la teoría de la información es la entropía. Esta mide la cantidad de información 
+    contenida en un sistema o el grado de incertidumbre. La entropía se calcula según la fórmula H = -Σ p(x) log p(x), 
+    donde p(x) es la probabilidad del evento x.
+    
+    La teoría de la información se aplica ampliamente en telecomunicaciones, ciencias de la computación, 
+    criptografía y otras áreas. Ayuda a optimizar algoritmos de compresión de datos, crear métodos de codificación 
+    eficientes y analizar la capacidad de los canales de comunicación.
+    
+    La codificación de fuente es el proceso por el cual los datos se transforman en una forma más eficiente. 
+    La codificación de Huffman es uno de los métodos de codificación sin pérdidas más conocidos, que utiliza 
+    códigos de longitud variable para símbolos según su frecuencia de aparición.
+    
