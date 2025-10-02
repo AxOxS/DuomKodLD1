@@ -14,13 +14,12 @@ RESULT_FOLDER = "results"
 # Optimal length analysis settings
 OPTIMAL_LENGTH_SETTINGS = {
     'min_length': 500,
-    'max_length': 10000,
+    'max_length': 35000,
     'step': 500
 }
 
 # Markov analysis settings
 MARKOV_SETTINGS = {
-    'max_order': 3,
     'most_frequent_symbols_count': 10
 }
 

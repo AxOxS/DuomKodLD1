@@ -21,7 +21,6 @@ def main():
     try:
         optimal_analysis = OptimalLengthAnalysis()
         optimal_lengths = optimal_analysis.analyse_all_texts()
-        optimal_analysis.results = optimal_lengths
     except Exception as e:
         print(f"Optimal length analysis error: {e}")
         optimal_analysis = None

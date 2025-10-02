@@ -1,9 +1,9 @@
 import os, math, numpy as np, matplotlib.pyplot as plt
 
-from collections import Counter, defaultdict
-from typing import Dict, List, Tuple
+from collections import Counter
+from typing import Dict
 from base_utils import BaseTextAnalysis
-from config import RESULT_FOLDER, OPTIMAL_LENGTH_SETTINGS
+from config import RESULT_FOLDER
 
 class TextAnalysis(BaseTextAnalysis):
     def __init__(self):
@@ -12,13 +12,16 @@ class TextAnalysis(BaseTextAnalysis):
         self.entropies = {}
         
     def get_char_frequencies(self, text: str) -> Dict[str, float]:
-        """Calculates character occurrence frequencies in text"""
         if not text:
             return {}
         
-        # Count each character occurrences
-        character_counts = Counter(text)
-        total_character_count = len(text)
+        # Filter out spaces and count each character occurrences
+        filtered_text = text.replace(' ', '')
+        if not filtered_text:
+            return {}
+            
+        character_counts = Counter(filtered_text)
+        total_character_count = len(filtered_text)
         
         # Calculate probabilities (frequencies)
         frequencies = {}
@@ -27,58 +30,9 @@ class TextAnalysis(BaseTextAnalysis):
             
         return frequencies
     
-    def find_optimal_text_length(self, text: str, min_length: int = None, 
-                                 max_length: int = None, step: int = None) -> Tuple[int, List[int], List[float]]:
-        """
-        Finds optimal text length that ensures stable character frequencies
-        Returns: (optimal_length, lengths, stability_indicators)
-        """
-        # Use configuration values as defaults
-        if min_length is None:
-            min_length = OPTIMAL_LENGTH_SETTINGS['min_length']
-        if max_length is None:
-            max_length = OPTIMAL_LENGTH_SETTINGS['max_length']
-        if step is None:
-            step = OPTIMAL_LENGTH_SETTINGS['step']
-            
-        lengths = []
-        stability_indicators = []
-        
-        # Analyze different text lengths
-        for length in range(min_length, min(max_length + 1, len(text)), step):
-            if length >= len(text):
-                break
-                
-            # Split text into two parts and calculate frequencies
-            part1 = text[:length//2]
-            part2 = text[length//2:length]
-            
-            frequencies1 = self.get_char_frequencies(part1)
-            frequencies2 = self.get_char_frequencies(part2)
-            
-            # Calculate stability indicator (root mean square deviation)
-            all_characters = set(frequencies1.keys()) | set(frequencies2.keys())
-            differences = []
-            
-            for character in all_characters:
-                freq1 = frequencies1.get(character, 0)
-                freq2 = frequencies2.get(character, 0)
-                differences.append((freq1 - freq2) ** 2)
-            
-            stability_indicator = math.sqrt(sum(differences) / len(differences))
-            
-            lengths.append(length)
-            stability_indicators.append(stability_indicator)
-        
-        # Find optimal length (where stability indicator is minimal)
-        if stability_indicators:
-            min_idx = stability_indicators.index(min(stability_indicators))
-            optimal_length = lengths[min_idx]
-        else:
-            optimal_length = min_length
-            
-        return optimal_length, lengths, stability_indicators
+
     
+
     def calculate_entropy(self, frequencies: Dict[str, float]) -> float:
         """Calculates text entropy according to H = -Σ p(ai) * log2(p(ai))"""
         entropy = 0.0
@@ -87,41 +41,7 @@ class TextAnalysis(BaseTextAnalysis):
                 entropy -= probability * math.log2(probability)
         return entropy
     
-    def check_markov_source(self, text: str, character: str) -> Dict[str, float]:
-        """
-        Checks if character occurrence probability depends on preceding characters
-        Returns conditional probabilities dictionary
-        """
-        if len(text) < 2:
-            return {}
-        
-        # Calculate conditional probabilities P(character | preceding)
-        conditional_counts = defaultdict(lambda: defaultdict(int))
-        preceding_counts = defaultdict(int)
-        
-        for i in range(1, len(text)):
-            preceding = text[i-1]
-            current = text[i]
-            
-            conditional_counts[preceding][current] += 1
-            preceding_counts[preceding] += 1
-        
-        # Calculate conditional probabilities
-        conditional_probabilities = {}
-        for preceding in conditional_counts:
-            if preceding_counts[preceding] > 0:
-                if character in conditional_counts[preceding]:
-                    conditional_probabilities[preceding] = (
-                        conditional_counts[preceding][character] / 
-                        preceding_counts[preceding]
-                    )
-                else:
-                    conditional_probabilities[preceding] = 0.0
-        
-        return conditional_probabilities
-    
     def analyse_all(self, text_name: str):
-        """Performs complete analysis for one text"""
         if text_name not in self.texts:
             print(f"Text '{text_name}' not found!")
             return
@@ -129,13 +49,8 @@ class TextAnalysis(BaseTextAnalysis):
         text = self.texts[text_name]
         print(f"\n=== ANALYZING: {text_name} ===")
         print(f"Text length: {len(text)} characters")
-        
-        # 1. Find optimal text length
-        print("\n1. Optimal text length search...")
-        optimal_length, lengths, stability_indicators = self.find_optimal_text_length(text)
-        print(f"Optimal text length: {optimal_length} characters")
-        
-        # Use optimal text length for further analysis
+
+        optimal_length = min(len(text), 30000)
         analyzed_text = text[:optimal_length]
         
         # 2. Calculate character frequencies  
@@ -156,24 +71,8 @@ class TextAnalysis(BaseTextAnalysis):
         self.entropies[text_name] = entropy
         print(f"Entropy: {entropy:.4f} bits/character")
         
-        # 4. Investigate Markov source suitability
-        print("\n4. Markov source investigation...")
-        # Take several most frequent characters
-        most_frequent_chars = [s[0] for s in most_frequent[:5]]
-        
-        for character in most_frequent_chars:
-            conditional_probs = self.check_markov_source(analyzed_text, character)
-            if conditional_probs:
-                prob_values = list(conditional_probs.values())
-                if len(prob_values) > 1:
-                    std_deviation = np.std(prob_values)
-                    char_repr = repr(character) if character in [' ', '\n', '\t'] else character
-                    print(f"  Character {char_repr}: conditional probabilities standard deviation = {std_deviation:.4f}")
-        
         return {
             'optimal_length': optimal_length,
-            'lengths': lengths,
-            'stability_indicators': stability_indicators,
             'frequencies': frequencies,
             'entropy': entropy
         }

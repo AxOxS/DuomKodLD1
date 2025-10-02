@@ -13,13 +13,18 @@ class MarkovAnalysis(BaseTextAnalysis):
         
     def calculate_conditional_probabilities(self, text: str, order: int = 1):
         """
-        Calculates conditional probabilities for Markov source
+        Calculates conditional probabilities for Markov source (excluding spaces)
         order: 0 - zero order (independent), 1 - first order, 2 - second order
         """
+        # Filter out spaces
+        filtered_text = text.replace(' ', '')
+        if not filtered_text:
+            return {}
+            
         if order == 0:
             # Zero order - simple character probabilities
-            character_counts = Counter(text)
-            total_count = len(text)
+            character_counts = Counter(filtered_text)
+            total_count = len(filtered_text)
             return {character: count / total_count 
                    for character, count in character_counts.items()}
         
@@ -27,9 +32,9 @@ class MarkovAnalysis(BaseTextAnalysis):
         conditional_counts = defaultdict(lambda: defaultdict(int))
         condition_counts = defaultdict(int)
         
-        for i in range(order, len(text)):
-            condition = text[i-order:i]
-            current = text[i]
+        for i in range(order, len(filtered_text)):
+            condition = filtered_text[i-order:i]
+            current = filtered_text[i]
             
             conditional_counts[condition][current] += 1
             condition_counts[condition] += 1
@@ -44,76 +49,7 @@ class MarkovAnalysis(BaseTextAnalysis):
         
         return conditional_probabilities
     
-    def check_markov_order(self, text: str, max_order: int = 3):
-        """
-        Checks which Markov source order best describes the text
-        """
-        print(f"\n=== MARKOV ORDER INVESTIGATION ===")
-        
-        results = {}
-        
-        for order in range(max_order + 1):
-            print(f"\nAnalyzing {order} order Markov source...")
-            
-            if order == 0:
-                # Zero order analysis
-                probabilities = self.calculate_conditional_probabilities(text, 0)
-                
-                # Check if character probabilities are uniform throughout the text
-                # Split text into parts and compare
-                num_parts = 5
-                part_length = len(text) // num_parts
-                part_probabilities = []
-                
-                for i in range(num_parts):
-                    start = i * part_length
-                    end = (i + 1) * part_length if i < num_parts - 1 else len(text)
-                    part_text = text[start:end]
-                    part_probabilities.append(self.calculate_conditional_probabilities(part_text, 0))
-                
-                # Calculate deviation between parts
-                all_characters = set()
-                for prob_dict in part_probabilities:
-                    all_characters.update(prob_dict.keys())
-                
-                deviations = []
-                for character in all_characters:
-                    char_probabilities = [d.get(character, 0) for d in part_probabilities]
-                    if len(set(char_probabilities)) > 1:  # If there are differences
-                        deviations.append(np.std(char_probabilities))
-                
-                average_deviation = np.mean(deviations) if deviations else 0
-                results[order] = {
-                    'type': 'independent',
-                    'deviation': average_deviation,
-                    'probability_count': len(probabilities)
-                }
-                
-            else:
-                # Higher order analysis
-                conditional_probabilities = self.calculate_conditional_probabilities(text, order)
-                
-                # Analyze if conditional probabilities differ
-                deviations = []
-                conditions_with_multiple_followers = []
-                
-                for condition, follower_probabilities in conditional_probabilities.items():
-                    if len(follower_probabilities) > 1:  # Only conditions with more than one follower
-                        probability_values = list(follower_probabilities.values())
-                        deviations.append(np.std(probability_values))
-                        conditions_with_multiple_followers.append(condition)
-                
-                average_deviation = np.mean(deviations) if deviations else 0
-                results[order] = {
-                    'type': f'{order} order',
-                    'deviation': average_deviation,
-                    'condition_count': len(conditional_probabilities),
-                    'active_conditions': len(conditions_with_multiple_followers)
-                }
-            
-            print(f"  Average deviation: {average_deviation:.6f}")
-        
-        return results
+
     
     def chi_square_test(self, text: str):
         """
@@ -121,16 +57,22 @@ class MarkovAnalysis(BaseTextAnalysis):
         """
         print(f"\n=== CHI-SQUARE TEST ===")
         
+        # Filter out spaces
+        filtered_text = text.replace(' ', '')
+        if len(filtered_text) < 2:
+            print("Not enough characters for chi-square test")
+            return 0, 1, 0  # Return defaults
+        
         # Take most frequent characters
-        character_counts = Counter(text)
+        character_counts = Counter(filtered_text)
         most_frequent_chars = [s for s, _ in character_counts.most_common(MARKOV_SETTINGS['most_frequent_symbols_count'])]
         
         # Create contingency table
         contingency_table = defaultdict(lambda: defaultdict(int))
         
-        for i in range(1, len(text)):
-            previous = text[i-1]
-            current = text[i]
+        for i in range(1, len(filtered_text)):
+            previous = filtered_text[i-1]
+            current = filtered_text[i]
             
             if previous in most_frequent_chars and current in most_frequent_chars:
                 contingency_table[previous][current] += 1
@@ -164,8 +106,9 @@ class MarkovAnalysis(BaseTextAnalysis):
     def visualize_conditional_probabilities(self, text: str, name: str):
         """Visualizes conditional probabilities"""
         
-        # Take most frequent characters
-        character_counts = Counter(text)
+        # Filter out spaces and take most frequent characters
+        filtered_text = text.replace(' ', '')
+        character_counts = Counter(filtered_text)
         most_frequent_chars = [s for s, _ in character_counts.most_common(8) if s.isalpha()]
         
         if len(most_frequent_chars) < 4:
@@ -203,7 +146,7 @@ class MarkovAnalysis(BaseTextAnalysis):
         plt.show()
     
     def analyze_text(self, name: str):
-        """Performs complete Markov analysis for one text"""
+        """Performs Markov analysis for one text (focuses on zero-order suitability)"""
         if name not in self.texts:
             print(f"Text '{name}' not found!")
             return
@@ -212,20 +155,15 @@ class MarkovAnalysis(BaseTextAnalysis):
         print(f"\n{'='*60}")
         print(f"MARKOV ANALYSIS: {name}")
         print(f"{'='*60}")
-        print(f"Text length: {len(text)} characters")
         
-        # 1. Markov order investigation
-        markov_results = self.check_markov_order(text)
-        
-        # 2. Chi-square test
+        # Chi-square test for independence
         chi2, p_value, degrees_of_freedom = self.chi_square_test(text)
         
-        # 3. Visualization
+        # Visualization
         self.visualize_conditional_probabilities(text, name)
         
         # Save results
         self.markov_results[name] = {
-            'markov_orders': markov_results,
             'chi2_test': {
                 'chi2': chi2,
                 'p_value': p_value,
@@ -255,7 +193,7 @@ class MarkovAnalysis(BaseTextAnalysis):
                 'Chi-square': f"{chi2_data['chi2']:.2f}",
                 'p-value': f"{chi2_data['p_value']:.6f}",
                 'Independence': 'Yes' if chi2_data['p_value'] >= 0.05 else 'No',
-                'Markov suitability': 'Zero order' if chi2_data['p_value'] >= 0.05 else 'Higher order'
+                'Zero-order Markov suitability': 'SUITABLE' if chi2_data['p_value'] >= 0.05 else 'NOT SUITABLE'
             })
         
         df = pd.DataFrame(df_data)

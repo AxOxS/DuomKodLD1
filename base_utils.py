@@ -2,13 +2,11 @@ from typing import Dict
 
 
 class BaseTextAnalysis:
-    """Base class for text analysis with common functions"""
     
     def __init__(self):
         self.texts = {}
     
     def load_text(self, filename: str, name: str) -> bool:
-        """Loads text from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 text = f.read()
@@ -23,6 +21,5 @@ class BaseTextAnalysis:
             return False
     
     def get_all_texts(self, texts_dict: Dict[str, str]):
-        """Loads all texts from dictionary"""
         for name, filename in texts_dict.items():
             self.load_text(filename, name)

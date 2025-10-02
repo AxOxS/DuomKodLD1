@@ -21,10 +21,9 @@ class OptimalLengthAnalysis:
 
         print(f"\n=== DETAILED LENGTH ANALYSIS: {name} ===")
         
-        #Storage for each tested length incremented by step, stability score and entropy for each length 
+        #Storage for each tested length incremented by step and stability score
         lengths = []
         stability_metrics = []
-        entropy_list = []
         
         #Loop for testing each length from min, to max or end of texts, incrementing by step
         for length in range(min_length, min(max_length + 1, len(text)), step):
@@ -61,24 +60,18 @@ class OptimalLengthAnalysis:
             #Lower stability indicator means better reliability, more consistent frequencies
             stability_indicator = np.sqrt(np.mean(differences))
             
-            #Calculate Shannon entropy for the text at the current length (randomness/complexity)
-            text_entropy = self.analysis.get_char_frequencies(text[:length])
-            entropy = self.analysis.calculate_entropy(text_entropy)
-            
-        
             lengths.append(length)
             stability_metrics.append(stability_indicator)
-            entropy_list.append(entropy)
             
             #Show values at an interval of 2500 characters
             if length % (step * 5) == 0:
                 print(f"  Analyzed length: {length}, stability: {stability_indicator:.6f}")
         
-        return lengths, stability_metrics, entropy_list
+        return lengths, stability_metrics
     
     
     def visualize_length_analysis(self, lengths: list, stability_indicators: list, 
-                                  entropies: list, name: str):
+                                  name: str):
         
         plt.figure(figsize=(12, 6))
         
@@ -110,14 +103,18 @@ class OptimalLengthAnalysis:
                 print(f"Total text length: {len(text)} characters")
                 
                 # Perform detailed analysis
-                lengths, stability_indicators, entropies = self.detailed_length_analysis(
+                lengths, stability_indicators = self.detailed_length_analysis(
                     text, name
                 )
                 
-                # Visualize and find optimal length
-                optimal_length = self.visualize_length_analysis(
-                    lengths, stability_indicators, entropies, name
+                # Visualize results
+                self.visualize_length_analysis(
+                    lengths, stability_indicators, name
                 )
+                
+                # Find optimal length (minimum stability)
+                min_idx = stability_indicators.index(min(stability_indicators))
+                optimal_length = lengths[min_idx]
                 
                 optimal_lengths[name] = optimal_length
             except Exception as e:
